@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 こんにちは　、、。です
+
+## 自己紹介
+- 所属: じょぎ
+- 好きなこと: くるま、睡眠、公共交通機関
+- 今後の目標:寝ること
+
+## これから作りたいもの
+セキュリティ自動化ツール
 
 <!--
 **tentenmaruuu/tentenmaruuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
